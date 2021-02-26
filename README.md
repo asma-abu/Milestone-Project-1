@@ -1,5 +1,5 @@
 # Asma Abu - Resume Website 
-The aim of this project and website is to build a brand with my coding expertise and showcase myself as an individual as well as my prospective talents to future employers. 
+The aim of this project and website is to build a brand with my coding expertise and showcase myself as an individual, as well as my prospective talents to future employers. 
 
 The website will be simple and clear to understand but still showcase my identity clearly and help future employers understand me as an employee and hopeful web developer. 
 
