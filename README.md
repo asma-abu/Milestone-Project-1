@@ -33,6 +33,16 @@ In this section, you should mention all of the languages, frameworks, libraries,
 JQuery
 The project uses JQuery to simplify DOM manipulation.
 
+#### Google fonts 
+https://fonts.google.com/specimen/Work+Sans?sidebar.open=true&preview.text_type=custom&selection.family=Work+Sans:wght@300
+I used this for my Navigation font 
+
+#### Bootstrap 
+https://getbootstrap.com/docs/5.0/components/navbar/
+I used this for my Navigation bar 
+
+
+
 ## Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
