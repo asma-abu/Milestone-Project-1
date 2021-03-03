@@ -10,7 +10,7 @@ The website will be simple and clear to understand but still showcase my identit
 ### The Strategy Plane
 
 
-The website is targetted towards proffesionals and businesses. All content on the website has a purpose and is there to answer the questions of any potential employers or clients. The technology used will be fairly simple and straight forward as will the design. 
+The website is targetted mainly towards proffesionals and businesses. All content on the website has a purpose and is there to answer the questions of any potential employers or clients. The technology used will be fairly simple and straight forward as will the design. 
 
 The aim of the site will be to attract more clients and prospective employers for the proffessional through showcasing their previous work and experience. 
 
@@ -22,7 +22,7 @@ The site won't list any pricing as this will need to be determined via follow up
 
 There will be content to ensure the customer, through a contact page. I will include a FAQ page, and a testimonials page along with a portfolio and resume page for this purpose. All these things will add value. 
 
-**Insert picture of User Experience Roadmap 3.40 https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/b8c5816d7e44420082c37dba0ef7723f/**
+<!-- Insert picture of User Experience Roadmap 3.40 https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/b8c5816d7e44420082c37dba0ef7723f/ -->
 
 As the website will be sleek and simple and include pictures and multiple points of assurance, it will feel credible and trustworthy. It will offer all the information the prospect clients and potential employers are looking for and any further queries can be address through the contact page which will be simple and easy to use. The contact page also makes it easy for the user to learn more and and contact the proffesional is they need to. 
 
@@ -98,7 +98,32 @@ This section is also where you would share links to any wireframes, mockups, dia
 ## Features
 The website will feature a number of different pages which hold different purposes. 
 
-The main page will have a reponsive navigation bar, followed by a Hero Image, 
+The **Main page** will have:
+
+- A reponsive navigation bar which will collapse into a button and drop down menu on smaller screens
+- A Hero Image which will feature a small text to establish who the website is for 
+- A small paragraph following the hero image which will provide more insight and answer the bigger questions any user visiting the website may have, or just reaffirm what they may know.
+
+
+The **Portfolio page** will feature: 
+
+- 
+- 
+- 
+
+The **Career page** will feature: 
+
+- 
+- 
+- 
+
+The **Contact page** will feature:
+
+- 
+- 
+- 
+
+
 
 <!-- To be completed -->
 ### Existing Features
