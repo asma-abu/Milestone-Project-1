@@ -6,6 +6,28 @@ The aim of this project and website is to build a brand with my coding expertise
 The website will be simple and clear to understand but still showcase my identity clearly and help future employers understand me as an employee and hopeful web developer. 
 
 ## UX
+
+### The Strategy Plane
+
+The website is targetted towards proffesionals and businesses. All content on the website has a purpose and is there to answer the questions of any potential employers or clients. The technology used will be fairly simple and straight forward as will the design. 
+
+The aim of the site will be to attract more clients and prospective employers for the proffessional through showcasing their previous work and experience. 
+
+The proffesional has a strong portfolio and career background and this will be portrayed in a clear and concise manner. The website will be informative and simple. 
+
+The target audience is for businesses. There are a few websites available such as LinkedIN and Indeed where businesses can find employees and candidates. The purpose of this website is the same, but this is more of an extra for the proffesional which will make them stand out from other potential candidates, as oppose to an alternative.
+
+The site won't list any pricing as this will need to be determined via follow up contact. There needs to be little persuasion as the audience is coming to the website with the intention to fulfil a goal. 
+
+There will be content to ensure the customer, through a contact page. I will include a FAQ page, and a testimonials page along with a portfolio and resume page for this purpose. All these things will add value. 
+
+**Insert User Experience Roadmap**
+
+As the website will be sleek and simple and include pictures and multiple points of assurance, it will feel credible and trustworthy. It will offer all the information the prospect clients and potential employers are looking for and any further queries can be address through the contact page which will be simple and easy to use. The contact page also makes it easy for the user to learn more and and contact the proffesional is they need to. 
+
+The home page will be simple and catchy and won't be an eye sore or look too hard to digest. The user will be able to pick up key peices of information through a quick scroll and easily navigate through the site.
+
+
 <!-- Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
