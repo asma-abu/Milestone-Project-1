@@ -14,47 +14,23 @@
     <title> Asma Abu | Resume Website </title>
 
     <style> 
-        .fa {
-        padding: 15px;
-        font-size: 22px;
-        width: 47px;
-        text-align: center;
-        text-decoration: none;
-        border-radius: 50%;
-        }
 
+        .container {
+  width: 500px;
+  clear: both;
+}
 
-
-        .fa:hover {
-        opacity: 0.3;
-        }
-
-        .fa-facebook {
-        background: #3B5998;
-        color: white;
-        text-decoration: none;
-        }
-
-        .fa-twitter {
-        background: #55ACEE;
-        color: white;
-        text-decoration: none;
-        }
-
-
-        .fa-linkedin {
-        background: #007bb5;
-        color: white;
-        text-decoration: none;
-        }
-
+.container input {
+  width: 100%;
+  clear: both;
+}
     </style>
 </head>
 
 
 <body>
     
-
+<article>
 <!-- start of Nav bar -->
     <header> 
 
@@ -76,26 +52,34 @@
         </nav>
     </header>
 <!-- end of Nav bar -->
-<article>
+  <main>
 
-
-<!-- start of Footer -->
-
-    <footer class="p-3 mb-2 bg-light text-dark">
-        <p> Connect with me!</p> <br>
-        <div>        
-            <a href="#" class="fa fa-facebook" alt="facebook"></a>
-            <a href="#" class="fa fa-twitter" alt="twitter"></a>
-            <a href="#" class="fa fa-linkedin" alt="linkedin"></a>
-        </div>
-    </footer>
+    <div class="container">
+        <form>
+        <label for="name-field">Name</label>
+        <input id="name-field" type="text" name="full_name" placeholder="Your name"><br>
+      <label for="email-field">Email</label>
+      <input id="email-field" type="email" name="email" placeholder="Your email"><br>
+      <label for="subject-field">Subject</label>
+      <input id="subject-field" type="subject" name="subject" placeholder="Subject"><br>
+        <label for="subject">Your Query</label><br>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px, width:auto"></textarea>
+    </form>
+    </div>
+</main>
+    <!-- start of Footer -->
 
 <!-- end of footer -->
+
+<!-- Testimonials -->
+
+
+
+
 
 </article>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-
 </body>
 </html>
