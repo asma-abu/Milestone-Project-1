@@ -3,42 +3,112 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap" rel="stylesheet">
+    <!-- CSS Style sheet-->
     <link rel="stylesheet" href="assets/css/style.css" > 
-    <title> Asma Abu - Resume Website </title>
-    <style> 
-    
-    </style>
+    <!-- Font Awesome Social Media icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title> Asma Abu | Resume Website </title>
+
+<style> 
+    /* Code to keep form aligned */ 
+    .container {
+    width: 500px;
+    clear: both;
+    }
+
+    .container input {
+    width: 100%;
+    clear: both;
+    }
+</style>
+
 </head>
+
+
 <body>
-    <header>
+    
+    <article>
+    <!-- start of Nav bar -->
+        
+    <header> 
 
-<!-- The following is from Bootstrap Nav page - (https://getbootstrap.com/docs/4.4/components/navbar/#how-it-works) -->
-<!-- Start of Nav bar -->
-<nav class="navbar navbar-light bg-light">
-  <div class="container-fluid sticky-lg-top dropdown-menu-md">
-    <span class="navbar-brand mb-0 h1">Asma Abu</span>
-<ul class="nav justify-content-end">
-  <li class="nav-item">
-    <a class="nav-link" href="index.html">Home</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="portfolio.html">Portfolio</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="resume.html">Resume</a>
-  </li>
-</ul>
- </div>
-</nav>
+            <nav class="font1 navbar navbar-light navbar-expand-sm bg-light" >
+                <div class="container-fluid sticky-lg-top dropdown-menu-md">
+                <a class="navbar-brand col-4">Asma Abu</a>
+                <a class="navbar-brand col-4"><b>Portfolio</b></a>
+            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span></button>
 
-<!-- End of Nav bar -->
-    </header>
-    <section>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown"> 
+                        <ul class="navbar-nav mr-auto col-4">
+                                <li class="nav-item mr-2"><a class="nav-link" href="index.html">Home</a></li>
+                                <li class="nav-item mr-2"><a class="nav-link" href="resume.html">Resume</a></li>
+                                <li class="nav-item mr-2"><a class="nav-link" href="contact.html">Contact</a></li>
+                        </ul>
+                </div>
+            </div>
+            </nav>
+        </header>
+    <!-- end of Nav bar -->
 
-    </section>
-    <footer>
-Find me on - LinkedIN, 
-    </footer>
+
+
+            <div class="card" style="width: 18rem;">
+            <img src="https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title"> Social Media Website </h5>
+                    <p class="card-text"> With a clean layout and responsive features, This Social media websites can be used for personal or business websites. The design is 100% responsive meaning it adapts to all devices such as iPhone, iPad, Android phones, tablets or even your desktop computer.</p>
+                    <a class="btn btn-sm btn-default" href="">Read More</a>
+                </div>
+            </div>
+    
+
+
+            <div class="card" style="width: 18rem;">
+            <img src="https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1952&q=80" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title"> Blog website </h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a class="btn btn-sm btn-default" href="">Read More</a>
+                </div>
+            </div>
+
+
+
+        <div class="card" style="width: 18rem;">
+            <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title"> Personal Website </h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a class="btn btn-sm btn-default" href="">Read More</a>
+            </div>
+        </div>
+
+
+        <div class="card" style="width: 18rem;">
+            <img src="https://images.unsplash.com/photo-1592839930500-3445eb72b8ad?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2089&q=80" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title"> Shopping Website </h5>
+                <p class="card-text">This site is a great example of online clothes retail shopping website design. There is a clear navigation, call to action and there are good images of the product. Notice how this site describes its features and focuses on benefits.</p>
+                <a class="btn btn-sm btn-default" href="">Read More</a>
+            </div>
+        </div>
+    
+
+<footer>
+
+</footer>
+
+    </article>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
 </html>
