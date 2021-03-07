@@ -183,11 +183,15 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 WS3 Schools: 
+https://www.w3schools.com/css/tryit.asp?filename=trycss_layout_float
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_testimonials
+
 
 Bootstrap: 
+https://getbootstrap.com/docs/5.0/layout/grid/
 
 Coolors:
-
+https://coolors.co/f8f9fa-dee2e6-6d7a88-495057-212529
 
 ### Content
 The text for section Y was copied from the Wikipedia article Z
