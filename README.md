@@ -107,21 +107,21 @@ The **Main page** will have:
 
 The **Portfolio page** will feature: 
 
-- 
-- 
-- 
+- A Menu featuring a preview of each project 
+- A back to top button to make it easier to navigate 
+- An overview of each project including images and a description 
 
 The **Career page** will feature: 
 
-- 
-- 
-- 
+- A timeline which will include the career history 
+- A back to top button to make it easier to navigate 
 
 The **Contact page** will feature:
 
-- 
-- 
-- 
+- A FAQ section 
+- A form to submit for queries 
+
+All the above pages will feature the same Nav bar and footer. 
 
 
 
