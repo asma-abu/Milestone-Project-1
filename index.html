@@ -18,6 +18,7 @@
     <title> Asma Abu | Resume Website </title>
 
     <style> 
+
     main {
         padding: 10vh;
         margin: 0;
@@ -36,6 +37,12 @@
         max-width:auto;
         height: 100%;
     }
+
+    img {
+        max-width: 100%;
+        height: auto;
+        float: right;
+    }
     </style>
 </head>
 
@@ -44,7 +51,7 @@
     
 
     <!-- start of Nav bar -->
-        <header> 
+        <header class="sticky-top">
 
             <nav class="font1 navbar navbar-light navbar-expand-sm bg-light" >
                 <div class="container-fluid sticky-lg-top dropdown-menu-md">
@@ -69,7 +76,7 @@
 
     <main>
         <div class="row justify-content-between">
-            <div class="col-7">
+            <div class="col-7 ">
                 <h2 class="fw-bold fs-1 lh-base">Hey there! I’m an experienced web developer keen to bring your vision and business to life online. </h2>
                 <h4 class="font1 fw-light">Let's work some magic!</h4>
             </div>
@@ -77,13 +84,17 @@
     </main>
 
     <section>
-        <div class="container-fluid container-md">
+        <div class="container-fluid container-md mx-aut fs-3 fw-light"><img src="assets/images/selfie.png" alt="...">
         My professional experience includes over 10 years in the field of web development, where I have had the opportunity to design and build several applications for companies including GoDaddy.com, Xoom, and Microsoft. I've created websites for numerous small and large businesses including Fandango, Gemvara, and Time Warner Cable to name a few. I look forward to you exploring more about me on the website and hearing from you!  
         </div>
     </section>
 
+
 <!-- Portfolio cards, Bootstrap -->
-    <div class="container">
+
+<h2 class="mx-auto"> Some of my previous work </h2>
+
+    <div class="container my-5">
         <div class="mb-3">
         <div class="card-deck">
             <div>
