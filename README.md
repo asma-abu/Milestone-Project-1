@@ -181,6 +181,14 @@ Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
 ## Credits
+
+WS3 Schools: 
+
+Bootstrap: 
+
+Coolors:
+
+
 ### Content
 The text for section Y was copied from the Wikipedia article Z
 ### Media
