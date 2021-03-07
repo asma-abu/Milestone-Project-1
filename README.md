@@ -193,9 +193,41 @@ https://getbootstrap.com/docs/5.0/layout/grid/
 Coolors:
 https://coolors.co/f8f9fa-dee2e6-6d7a88-495057-212529
 
+Youtube: 
+Responsive Resume timeline: https://www.youtube.com/watch?v=7XWL8ew-9Z4
+
+README template:
+https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md
+
+Markdown syntax:
+https://www.markdownguide.org/basic-syntax/
+
+Write good commit messages:
+https://chris.beams.io/posts/git-commit/
+
+Deploy to Github Pages:
+https://www.codecademy.com/articles/f1-u3-github-pages
+
+CSS Reference:
+https://tympanus.net/codrops/css_reference/
+
+Properly format HTML:
+https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html
+
+Properly format CSS :
+https://github.com/necolas/idiomatic-css/blob/master/README.md
+
+Properly position scripts :
+https://flaviocopes.com/javascript-async-defer/
+
+Keep footer at page bottom :
+https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f
+
+
 ### Content
 The text for section Y was copied from the Wikipedia article Z
 ### Media
 The photos used in this site were obtained from ...
 ### Acknowledgements
 I received inspiration for this project from X
+Inspiration: https://www.seanhalpin.design/

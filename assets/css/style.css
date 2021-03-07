@@ -6,7 +6,7 @@
 /* Home page */
 
 /* Hero image */ 
-main {
+.heroimage {
 	padding: 10vh;
 	margin: 0;
 	max-width: auto;
@@ -238,3 +238,6 @@ footer {
             right: inherit;
         }
     }
+
+
+/* SOCIAL MEDIA ICONS */
