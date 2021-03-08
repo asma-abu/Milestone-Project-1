@@ -1,11 +1,14 @@
+
+
 .font1 {
 	font-family: 'Work Sans', sans-serif;
 }
 
 
-/* Home page */
+/* ==========================================================================
+   Hero Image 
+   ========================================================================== */
 
-/* Hero image */ 
 .heroimage {
 	padding: 5vh;
 	margin: 0;
@@ -17,7 +20,10 @@
 	background-attachment: fixed;
 }
 
-/* Introductory paragraph */ 
+/* ==========================================================================
+   Introductory Paragraph 
+   ========================================================================== */
+
 section {
 	background-color: #F8F9FA;
 	padding: 10vh;
@@ -26,7 +32,10 @@ section {
 	height: 100%;
 }
 
-/* styling for Emoji */ 
+/* ==========================================================================
+   Styling for Memoji 
+   ========================================================================== */
+
 img {
 	max-width: 100%;
 	height: auto;
@@ -37,8 +46,9 @@ h2 {
 	margin-top: 3em;
 }
 
-
-/* Keep footer at page bottom - https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f */
+/* ==========================================================================
+   Keep footer at page bottom - https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f 
+   ========================================================================== */
 
 html,
 body {
@@ -72,7 +82,10 @@ footer {
 }
 
 
-/* TIMELINE https://codepen.io/Astroop/pen/LYpWjMJ */
+/* ==========================================================================
+   TIMELINE -  https://www.cssscript.com/responsive-vertical-timeline
+   ========================================================================== */
+
 .timeline {
     position: relative;
     margin: 0 auto;
@@ -171,6 +184,9 @@ footer {
     background-color: #333333;
 }
 
+/* The following is to make the timeline responsive
+   ========================================================================== */
+
 @media (max-width: 800px) {
     .point {
         min-width: 15px;
@@ -205,7 +221,9 @@ footer {
     }
 }
 
-/* CONTACT FORM */
+/* ==========================================================================
+   CONTACT FORM - https://codepen.io/JonLehman/pen/yOdbOG
+   ========================================================================== */
 
 article main form {
     background-color: white;
@@ -228,7 +246,8 @@ article main form {
     line-height: 1.5;
 }
 
-/* ///// inputs /////*/
+/* The following is to make the timeline responsive
+   ========================================================================== */
 
 input:focus~label,
 textarea:focus~label,
@@ -345,9 +364,9 @@ input[type=checkbox]:checked+label {
 
 
 
-/* footer */
-
-/*FOOTER*/
+/* ==========================================================================
+   FOOTER - https://codepen.io/NamiqNamaz/pen/QZYyEq
+   ========================================================================== */
 
 footer {
     background: #B5BAB8;
@@ -378,9 +397,8 @@ footer a:hover {
 }
 
 
-/*SOCİAL İCONS*/
-
-/* footer social icons */
+/* ICONS FOR SOCIAL MEDIA BUTTONS
+   ========================================================================== */
 
 ul.social-network {
     list-style: none;
@@ -393,9 +411,6 @@ ul.social-network li {
     display: inline;
     margin: 0 5px;
 }
-
-
-/* footer social icons */
 
 .social-network a.icoFacebook:hover {
     background-color: #3B5998;

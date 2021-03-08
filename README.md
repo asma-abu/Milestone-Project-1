@@ -226,6 +226,9 @@ https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f
 Fake address Generator:
 https://www.fakeaddressgenerator.com/
 
+Content for resume: 
+https://resumegenius.com/resume-samples/web-developer-resume-example#text-format
+https://www.resume-now.com/resume/templates/web-development/developer/entry-level
 
 ### Content
 The text for section Y was copied from the Wikipedia article Z
