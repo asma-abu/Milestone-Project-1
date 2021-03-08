@@ -1,5 +1,8 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/asma-abu/Milestone-Project-1)
 
+![Mockup of the website on different devices.](/assets/images/mockups.png "Website Mockup")
+
+
 # Asma Abu - Resume Website 
 The aim of this project and website is to build a brand with my coding expertise and showcase myself as an individual, as well as my prospective talents to future employers. 
 
@@ -139,16 +142,23 @@ Another feature idea
 ## Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+- #### HTML
+This was used for most of the website and was the foundation for everything
 
-#### Google fonts 
+- #### CSS 
+CSS was used for the styling of the website and to add some effects 
+
+- #### Google fonts 
 https://fonts.google.com/specimen/Work+Sans?sidebar.open=true&preview.text_type=custom&selection.family=Work+Sans:wght@300
 I used this for my Navigation font 
 
-#### Bootstrap 
+- #### Bootstrap 
 https://getbootstrap.com/docs/5.0/components/navbar/
 I used this for my Navigation bar 
+
+- #### W3Schools
+https://www.w3schools.com
+I used this to learn about how to edit the code from different frameworks 
 
 
 
