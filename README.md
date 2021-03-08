@@ -23,7 +23,7 @@ The target audience is mostly businesses. There are a few websites available suc
 
 The site won't list any pricing as this will need to be determined via follow up contact. There needs to be little persuasion as the audience is coming to the website with the intention to fulfil a goal. 
 
-There will be content to ensure the customer, through a contact page. I will include a FAQ page, and a testimonials page along with a portfolio and resume page for this purpose. All these things will add value. 
+There will be content to ensure the customer, through a contact page. I will a testimonials page along with a portfolio and resume page for this purpose. All these things will add value. 
 
 <!-- Insert picture of User Experience Roadmap 3.40 https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/b8c5816d7e44420082c37dba0ef7723f/ -->
 
@@ -46,7 +46,7 @@ The home page will be simple and catchy and won't be an eye sore or look too har
 - To have contact with the developer for any enquiries 
 - Learn more about what it's like to work with the proffessional 
 
-##### The budget will vary depending on the project and this will be addressed on a FAQ page. 
+##### The budget will vary depending on the project. 
 
 #### The website will meet all the above needs: 
 
@@ -121,7 +121,6 @@ The **Career page** will feature:
 
 The **Contact page** will feature:
 
-- A FAQ section 
 - A form to submit for queries 
 
 All the above pages will feature the same Nav bar and footer. 
@@ -176,22 +175,15 @@ I used this to learn about how to edit the code from different frameworks
 ## Testing
 
 The site has been testing using the developer tools. 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+I have tested all the links on the website to ensure they're working correctly. 
+The nav bar is working as it should and works when it is in its full and collapsed state. 
+The Footer and all it's links work as they should. 
+The contact form works, and all the error messages appear when trying to submit without completing all the fields.
+Upon testing, I found if you tried to input the wrong type of data, the form still would submit. I have since updated this and it now is working and verifies as it should. 
+The website is simple and looks presentable on all screen sizes.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+I experienced an error with the footer of the page. I followed instructions however there's a space between the content and footer which is disguised as margin space so doesn't cause any issues. 
 
 ## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
