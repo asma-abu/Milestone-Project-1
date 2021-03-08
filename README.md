@@ -14,14 +14,15 @@ The website will be simple and clear to understand but still showcase my identit
     - [User Goals](####The-user-goals)
     - [Business Goals](###-Business-Goals)
 - [User Stories](##User-Stories)
-    - [emacs package repository](#emacs-package-repository)
-        - [Setup](#setup)
-            - [melpa stable](#melpa-stable)
-            - [melpa](#melpa)
-            - [marmalade](#marmalade)
-        - [Install](#install)
-    - [emacs-lisp file](#emacs-lisp-file)
-- [Inspiration](#inspiration)
+- [Features](##Features)
+- [Technologies Used](##Technologies-Used)
+- [Testing](##Testing)
+- [Deployment](##Deployment)
+- [Credits](##Credits)
+- [Content](##Content)
+- [Media](##Media)
+- [Acknowledgements](##Acknowledgements)
+
 
 ## UX
 
@@ -219,15 +220,11 @@ The website is simple and looks presentable on all screen sizes.
 
 I experienced an error with the footer of the page. I followed instructions however there's a space between the content and footer which is disguised as margin space so doesn't cause any issues. 
 
+
 ## Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+The project is Deployed through Github Pages 
+You can run this through the following link: https://asma-abu.github.io/Milestone-Project-1/.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
 
 ## Credits
 
@@ -238,6 +235,9 @@ https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_testimonials
 
 Bootstrap: 
 https://getbootstrap.com/docs/5.0/layout/grid/
+
+Portfolio cards, Bootstrap:
+ https://getbootstrap.com/docs/4.0/components/card/
 
 Coolors:
 https://coolors.co/f8f9fa-dee2e6-6d7a88-495057-212529
@@ -282,16 +282,23 @@ https://www.resume-now.com/resume/templates/web-development/developer/entry-leve
 Testimonials:
 https://speckyboy.com/spread-the-word-beautiful-testimonial-ui-examples/
 
-### Content
+Footer:
+https://codepen.io/NamiqNamaz/pen/QZYyEq
+
+
+## Content
 
 Content for resume: 
 https://resumegenius.com/resume-samples/web-developer-resume-example#text-format
 https://www.resume-now.com/resume/templates/web-development/developer/entry-level
 
-### Media
+
+## Media
 The photos used in this site were obtained from:
 https://unsplash.com/ 
 https://smartmockups.com/
-### Acknowledgements
+
+
+## Acknowledgements
 I received inspiration for this project from X
 Inspiration: https://www.seanhalpin.design/
