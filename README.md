@@ -241,9 +241,14 @@ https://resumegenius.com/resume-samples/web-developer-resume-example#text-format
 https://www.resume-now.com/resume/templates/web-development/developer/entry-level
 
 ### Content
-The text for section Y was copied from the Wikipedia article Z
+
+Content for resume: 
+https://resumegenius.com/resume-samples/web-developer-resume-example#text-format
+https://www.resume-now.com/resume/templates/web-development/developer/entry-level
+
 ### Media
-The photos used in this site were obtained from ...
+The photos used in this site were obtained from:
+https://unsplash.com/ 
 ### Acknowledgements
 I received inspiration for this project from X
 Inspiration: https://www.seanhalpin.design/
