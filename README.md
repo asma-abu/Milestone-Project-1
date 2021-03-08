@@ -8,6 +8,24 @@ The aim of this project and website is to build a brand with my coding expertise
 
 The website will be simple and clear to understand but still showcase my identity clearly and help future employers understand me as an employee and hopeful web developer. 
 
+
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [UX](##UX)
+    - [The Strategy Plane](###The-Strategy-Plane)
+    - [Taret Audience](####The-target-audience)
+    - [Create elsewhere](#create-elsewhere)
+- [Install](#install)
+    - [emacs package repository](#emacs-package-repository)
+        - [Setup](#setup)
+            - [melpa stable](#melpa-stable)
+            - [melpa](#melpa)
+            - [marmalade](#marmalade)
+        - [Install](#install)
+    - [emacs-lisp file](#emacs-lisp-file)
+- [Inspiration](#inspiration)
+
 ## UX
 
 ### The Strategy Plane
