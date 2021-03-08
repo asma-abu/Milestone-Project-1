@@ -128,19 +128,30 @@ All the above pages will feature the same Nav bar and footer.
 
 
 
-<!-- To be completed -->
 ### Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+#### Home page 
+
+The home page features an interactive Nav bar which collapses into a Menu button on smaller screens. 
+It then goes on to a hero image which captures the users attention and briefly gives an idea of what to expect using the quote. 
+This is then followed by a short paragraph and memoji to add character. 
+The next section is some of the work from the portfolio which is followed by a button which links to the portfolio page with all the projects. 
+It's then followed by short testimonials with images. 
+The page ends with a responsive footer which features contact details, Social Media links, an about me Section and quick links to navigate around the website.
+
+#### The Resume page 
+
+The resume page features an interactive Nav bar which collapses into a Menu button on smaller screens. 
+It then goes on to present a timeline of the career history of the Proffessional. 
+The page ends with a responsive footer which features contact details, Social Media links, an about me Section and quick links to navigate around the website.
+#### Portfolio page 
+
 
 ### Features Left to Implement
-Another feature idea
+ - FAQ on contacts page 
+ - More thorough explanations of each projects so user doesn't have to click out of website, as demonstrated on the original WireFrames 
 
 ## Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 - #### HTML
 This was used for most of the website and was the foundation for everything
@@ -163,6 +174,8 @@ I used this to learn about how to edit the code from different frameworks
 
 
 ## Testing
+
+The site has been testing using the developer tools. 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.

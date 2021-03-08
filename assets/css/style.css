@@ -1,6 +1,6 @@
 
 
-.font1 {
+body {
 	font-family: 'Work Sans', sans-serif;
 }
 
@@ -25,7 +25,7 @@
    ========================================================================== */
 
 section {
-	background-color: #F8F9FA;
+	background-color: white;
 	padding: 10vh;
 	margin: 0;
 	max-width: auto;
@@ -44,6 +44,10 @@ img {
 
 h2 {
 	margin-top: 3em;
+}
+
+.h2 {
+    margin-top: 1em;
 }
 
 /* ==========================================================================
@@ -478,14 +482,15 @@ ul.social-network li {
 
 
 
-
+/* ==========================================================================
+   TESTIMONIAL CARD - https://codepen.io/NamiqNamaz/pen/QZYyEq
+   ========================================================================== */
 
 *{
   box-sizing: border-box
 }
 
 .container1{
-  background:#CDCACC;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -524,6 +529,7 @@ ul.social-network li {
   justify-content:center;
   
 }
+
 .image2{
   background-color:tomato;
   height: 120px;
@@ -560,7 +566,8 @@ ul.social-network li {
   height: 140px;
   border-radius: 0 0 10px 10px;
   position:relative;
-  padding: 25%;
+  padding-top: 25%;
+  padding-bottom: 10%;
 }
 
 .quote{
@@ -572,7 +579,7 @@ ul.social-network li {
 }
 
 .person{
-  color:white;
+  color:#2D3439;
   position: absolute;
   top: 50%;
   left: 50%;
