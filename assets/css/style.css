@@ -382,3 +382,7 @@ footer {
 
 /* footer */
 
+address {
+    text-align: left;
+    margin-left: 2em;
+}
