@@ -240,6 +240,9 @@ Content for resume:
 https://resumegenius.com/resume-samples/web-developer-resume-example#text-format
 https://www.resume-now.com/resume/templates/web-development/developer/entry-level
 
+Testimonials:
+https://speckyboy.com/spread-the-word-beautiful-testimonial-ui-examples/
+
 ### Content
 
 Content for resume: 
@@ -249,6 +252,7 @@ https://www.resume-now.com/resume/templates/web-development/developer/entry-leve
 ### Media
 The photos used in this site were obtained from:
 https://unsplash.com/ 
+https://smartmockups.com/
 ### Acknowledgements
 I received inspiration for this project from X
 Inspiration: https://www.seanhalpin.design/
