@@ -223,6 +223,9 @@ https://flaviocopes.com/javascript-async-defer/
 Keep footer at page bottom :
 https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f
 
+Fake address Generator:
+https://www.fakeaddressgenerator.com/
+
 
 ### Content
 The text for section Y was copied from the Wikipedia article Z
