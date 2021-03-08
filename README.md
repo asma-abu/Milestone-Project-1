@@ -8,15 +8,12 @@ The aim of this project and website is to build a brand with my coding expertise
 
 The website will be simple and clear to understand but still showcase my identity clearly and help future employers understand me as an employee and hopeful web developer. 
 
-
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-**Table of Contents**
-
 - [UX](##UX)
     - [The Strategy Plane](###The-Strategy-Plane)
-    - [Taret Audience](####The-target-audience)
-    - [Create elsewhere](#create-elsewhere)
-- [Install](#install)
+    - [Target Audience](####The-target-audience)
+    - [User Goals](####The-user-goals)
+    - [Business Goals](###-Business-Goals)
+- [User Stories](##User-Stories)
     - [emacs package repository](#emacs-package-repository)
         - [Setup](#setup)
             - [melpa stable](#melpa-stable)
@@ -107,14 +104,26 @@ As a start-up or sole trader:
 - I will need to see previous work 
 - I will need to easily contact the developer to propose my ideas 
 
+Recruiter/ Large business owner : 
+As a recruiter I am looking for proffesionals with a passion for what they're doing, and information to see if the candidate is suitable. 
+I can see the proffesional has many years of experience straight away from the Hero Image. 
+There is enthusiastic language used which shows she is passionate about what she does. 
+There is a portfolio and resume page which displays that she knows what she's doing.
+There are contact and address details for me to see where she is located and if she's suitable for the job. 
+There is a contact page where I can direct further interest or queries. 
 
+Start-up/Sole-trader: 
+As a start-up/Sole-trader I will need to see that they have experience working with start-ups. 
+I will also need to be able to see if they are close and have contact details to discuss this further with them.
+I can see there are contact details and a contact page which makes this easier for me.
 
-<!-- Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Mentee: 
+As a mentee, I will want to visit the website and see that the proffesional has a good level of experience, and a good knowledge of the industry. 
+I can do this all over the website. Starting from the homepage, I can see testimonials as well as some of the work she has done. 
+There's also a small intrductory paragraph which describes her experience and reinforces confidence she is the right mentor. 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+[Wireframes PDF](https://github.com/asma-abu/Milestone-Project-1/blob/master/Wireframes%20PDF.pdf)
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser. !--> 
 
 ## Features
 The website will feature a number of different pages which hold different purposes. 
@@ -128,8 +137,6 @@ The **Main page** will have:
 
 The **Portfolio page** will feature: 
 
-- A Menu featuring a preview of each project 
-- A back to top button to make it easier to navigate 
 - An overview of each project including images and a description 
 
 The **Career page** will feature: 
@@ -141,11 +148,15 @@ The **Contact page** will feature:
 
 - A form to submit for queries 
 
+The **Resume page** will feature: 
+
+
+
 All the above pages will feature the same Nav bar and footer. 
 
 
 
-### Existing Features
+### Features
 
 #### Home page 
 
@@ -161,7 +172,12 @@ The page ends with a responsive footer which features contact details, Social Me
 The resume page features an interactive Nav bar which collapses into a Menu button on smaller screens. 
 It then goes on to present a timeline of the career history of the Proffessional. 
 The page ends with a responsive footer which features contact details, Social Media links, an about me Section and quick links to navigate around the website.
+
 #### Portfolio page 
+
+The portfolio page features an interactive Nav bar which collapses into a Menu button on smaller screens.
+The portfolio page features all the projects which link to a guthub repository for clients to explore further. 
+The page ends with a responsive footer which features contact details, Social Media links, an about me Section and quick links to navigate around the website.
 
 
 ### Features Left to Implement
